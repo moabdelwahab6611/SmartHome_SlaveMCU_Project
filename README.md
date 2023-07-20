@@ -1,4 +1,4 @@
-# Smart Home System Slave MCU Project
+# Smart Home System Slave MCU 
 ## Smart Home system slave micro-controller
 
 ### Description : 
