@@ -2,7 +2,7 @@
 ## Smart Home system slave micro-controller
 
 ### Description : 
-Slave micro-controller for my Smart Home system project used to give the user indication by turning on th DC Motor so that means temperature exceeds a certain temperature which is 35 degree which user can adjust to any degree he or she desaires.
+Slave micro-controller for my smart home system project c programming language used to give the user indication by turning on the dc motor so that means temperature exceeds a certain temperature which is 35 degree which user can adjust to any degree he or she desire.
 
 ### Requirements : 
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F46K20 8-Bit Micro-conroller, and pickit3.  
