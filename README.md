@@ -5,7 +5,7 @@
 Slave micro-controller for my smart home system project c programming language used to give the user indication by turning on the dc motor so that means temperature exceeds a certain temperature which is 35 degree which user can adjust to any degree he or she desire.
 
 ### Requirements : 
-To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F46K20 8-Bit Micro-conroller, and pickit3.  
+To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, 2 PIC18F46K20 8-Bit Micro-conroller one for master MCU and the other one for the slave MCU, and pickit3.  
 
 Also use the Smart Home Project the main project which contains the master MCU and all configurations to Temperature Sensor, Real Time Clock, and External EEPROM with this MCU as this MCU acts as a slave MCU for the master as i descriped in @Description section.
 
