@@ -7,7 +7,7 @@ Slave micro-controller for my smart home system project c programming language u
 ### Requirements : 
 To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F46K20 8-Bit Micro-conroller, and pickit3.  
 
-Also use the Smart Home Project the main project which contains the master MCU and all configurations to Temperature Sensor, Real Time Clock, and External EEPROM with this MCU as this MCU acts as a slave MCU for the master as i descriped in @Discription section.
+Also use the Smart Home Project the main project which contains the master MCU and all configurations to Temperature Sensor, Real Time Clock, and External EEPROM with this MCU as this MCU acts as a slave MCU for the master as i descriped in @Description section.
 
 ### Tools & Equipments Used :
 1 - MPLAB X IDE   
